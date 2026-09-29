@@ -1,0 +1,45 @@
+<h1 align="center">Amal Madhu</h1>
+<p align="center"><b>Aspiring Cloud Engineer · Azure · Terraform · Linux</b><br>Systems administrator in Melbourne, Australia, learning cloud engineering in public.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-learning-0078D4?logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Terraform-learning-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Linux-learning-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GitHub_Actions-learning-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-learning-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+</p>
+
+### What I'm doing
+
+I'm following a structured roadmap from IT fundamentals to cloud engineer, and logging every week of it publicly in [cloud-journey](https://github.com/AmalMadhu2003/cloud-journey). Every project I build ships with infrastructure as code, a CI/CD pipeline, an architecture diagram and an honest write-up of what broke.
+
+<!-- AUTO:focus:start -->
+**Current focus:** Phase 0 · Setup
+<!-- AUTO:focus:end -->
+
+### Roadmap progress
+
+<!-- AUTO:progress:start -->
+_Progress appears here after the first update runs._
+<!-- AUTO:progress:end -->
+
+### Featured projects
+
+<!-- AUTO:projects:start -->
+_First project lands in Phase 4: the Cloud Resume Challenge on Azure._
+<!-- AUTO:projects:end -->
+
+### Certifications
+
+<!-- AUTO:certs:start -->
+_Certifications appear here after the first update runs._
+<!-- AUTO:certs:end -->
+
+### Latest from my study log
+
+<!-- AUTO:log:start -->
+_My latest weekly log entry appears here._
+<!-- AUTO:log:end -->
+
+<sub>This profile updates itself from my <a href="https://github.com/AmalMadhu2003/cloud-journey">cloud-journey</a> repo every six hours using GitHub Actions. <a href="scripts/update_readme.py">How it works</a>.</sub>
