@@ -1,0 +1,39 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every six hours
+  workflow_dispatch:          # run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh README sections
+        run: python3 scripts/update_readme.py
+        env:
+          GH_LOGIN: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update profile from cloud-journey"
+          git push
