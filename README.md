@@ -52,11 +52,11 @@ _First project lands in Phase 4: the Cloud Resume Challenge on Azure._
 ### Latest from my study log
 
 <!-- AUTO:log:start -->
-**2026-09-29 · Setup**
+**Week of 2026-09-28 · What the cloud is**
 
-- Set up my lab: Ubuntu (WSL), VS Code, Git, Terraform, Azure CLI.
-- Created this repo, my project template and my GitHub profile.
-- Next: Lesson 1, what the cloud is and my first hours in the terminal.
+**What I did**
+- Lesson 1, Part A: servers, the cloud, and what a cloud engineer does
+- Microsoft Learn module: Describe cloud computing
 
 [Read the full log](https://github.com/AmalMadhu2003/cloud-journey/blob/main/LOG.md)
 <!-- AUTO:log:end -->
