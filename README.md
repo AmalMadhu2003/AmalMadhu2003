@@ -21,7 +21,15 @@ I'm following a structured roadmap from IT fundamentals to cloud engineer, and l
 ### Roadmap progress
 
 <!-- AUTO:progress:start -->
-_Progress appears here after the first update runs._
+| Phase | Progress |
+| --- | --- |
+| Phase 0 · Setup | `▓▓▓▓▓▓▓▓░░  75%` |
+| Phase 1 · IT basics from zero | `░░░░░░░░░░   0%` |
+| Phase 2 · Linux, networking, scripting | `░░░░░░░░░░   0%` |
+| Phase 3 · Azure core | `░░░░░░░░░░   0%` |
+| Phase 4 · Build and automate | `░░░░░░░░░░   0%` |
+| Phase 5 · Containers | `░░░░░░░░░░   0%` |
+| Phase 6 · Job-ready | `░░░░░░░░░░   0%` |
 <!-- AUTO:progress:end -->
 
 ### Featured projects
@@ -33,13 +41,24 @@ _First project lands in Phase 4: the Cloud Resume Challenge on Azure._
 ### Certifications
 
 <!-- AUTO:certs:start -->
-_Certifications appear here after the first update runs._
+| Certification | Status |
+| --- | --- |
+| AZ-104 Azure Administrator Associate | target Oct 2027 |
+| HashiCorp Terraform Associate | target Feb 2028 |
+| AWS Solutions Architect Associate | planned, after job-ready |
+| Certified Kubernetes Administrator (CKA) | planned, after job-ready |
 <!-- AUTO:certs:end -->
 
 ### Latest from my study log
 
 <!-- AUTO:log:start -->
-_My latest weekly log entry appears here._
+**2026-09-29 · Setup**
+
+- Set up my lab: Ubuntu (WSL), VS Code, Git, Terraform, Azure CLI.
+- Created this repo, my project template and my GitHub profile.
+- Next: Lesson 1, what the cloud is and my first hours in the terminal.
+
+[Read the full log](https://github.com/AmalMadhu2003/cloud-journey/blob/main/LOG.md)
 <!-- AUTO:log:end -->
 
 <sub>This profile updates itself from my <a href="https://github.com/AmalMadhu2003/cloud-journey">cloud-journey</a> repo every six hours using GitHub Actions. <a href="scripts/update_readme.py">How it works</a>.</sub>
