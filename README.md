@@ -15,7 +15,7 @@
 I'm following a structured roadmap from IT fundamentals to cloud engineer, and logging every week of it publicly in [cloud-journey](https://github.com/AmalMadhu2003/cloud-journey). Every project I build ships with infrastructure as code, a CI/CD pipeline, an architecture diagram and an honest write-up of what broke.
 
 <!-- AUTO:focus:start -->
-**Current focus:** Phase 0 · Setup
+**Current focus:** Phase 1 · IT basics from zero
 <!-- AUTO:focus:end -->
 
 ### Roadmap progress
@@ -23,7 +23,7 @@ I'm following a structured roadmap from IT fundamentals to cloud engineer, and l
 <!-- AUTO:progress:start -->
 | Phase | Progress |
 | --- | --- |
-| Phase 0 · Setup | `▓▓▓▓▓▓▓▓░░  75%` |
+| Phase 0 · Setup | `Done` |
 | Phase 1 · IT basics from zero | `░░░░░░░░░░   0%` |
 | Phase 2 · Linux, networking, scripting | `░░░░░░░░░░   0%` |
 | Phase 3 · Azure core | `░░░░░░░░░░   0%` |
@@ -57,6 +57,7 @@ _First project lands in Phase 4: the Cloud Resume Challenge on Azure._
 **What I did**
 - Lesson 1, Part A: servers, the cloud, and what a cloud engineer does
 - Microsoft Learn module: Describe cloud computing
+- Lesson 1, Part C: first session in the Ubuntu terminal (files, folders, apt, man pages)
 
 [Read the full log](https://github.com/AmalMadhu2003/cloud-journey/blob/main/LOG.md)
 <!-- AUTO:log:end -->
